@@ -7,11 +7,14 @@
 mean(1, 3, 5, 8,2, 7, 4)
 mean(8, 9, 10, 4, 6, 7, 5, 8)
 
+
 height = c(100, 106, 121, 111, 109, 111, 103, 117, 114, NA, 1047)
 mean(height)
 
+
 # remove null/NA
 mean(height, na.rm = TRUE)
+
 
 # trim or cut bottom and upper 10 % value
 mean(height, na.rm = T, trim = 0.1)
