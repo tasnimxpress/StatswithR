@@ -23,8 +23,10 @@ data_matrix
 rownames(data_matrix) = c(1:10)
 data_matrix
 
+
 # pulling data
 data_matrix[4, 2] # 4th row, 2nd column
+
 
 # summary statistics
 summary(data_matrix)
@@ -45,7 +47,6 @@ summary(b)
 
 # The third quartile (Q3, or the upper quartile) 
     #is the 75th percentile, meaning that 75% of the data falls below the third quartile.
-
 
 
 
