@@ -25,6 +25,7 @@ print(avg_age)
 # data type
 # integers | numeric | character | logical 
 
+
 #check data type
 print(class(age))
 
