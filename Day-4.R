@@ -22,6 +22,7 @@ print(class(d))
 num = c(1:10)
 print(num)
 
+
 # add some other value with range
 num_b = c(1:10, 16, 17, 18, 19, 10)
 print(num_b)
