@@ -22,4 +22,5 @@ plot(arr_delay, dep_delay,
     ylab = "Departure Delay",
     pch = 1
 )
-# pch 1 = circle, 2 = triangel, 3 = plus, 4 = cross, 5 = diamond, 6 = reverse triangle, 7 = box&cross
+# pch 1 = circle, 2 = triangel, 3 = plus, 4 = cross, 5 = diamond
+# 6 = reverse triangle, 7 = box&cross
